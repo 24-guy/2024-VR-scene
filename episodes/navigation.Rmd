@@ -7,17 +7,25 @@ exercises: 10
 
 ### Group 6: Gray Jay, Sovine Kennedy, Waterer Tegan
 
-:::::::::::::::::::::::::::::::::::::: questions 
+## How can users navigate effectively in a VR Environment?
+Users can use multiple different ways to navigate within a VR environment. These include using a joystick on a remote, walking in their physical environment, and teleportation. 
 
-- How can users navigate efficiently in a VR environment?
-- How a tele-portation system will work?
+## How would a teleportation system work?
+Teleportation systems in VR games usually work through having predetermined spots that the user can point to with their controller and click a button to move there. This can also be achieved through tracking the movements of the user’s body, if they’re using the camera capture to use their hands in place of controllers. 
+After the selection of the spot, the user is instantly transported to that spot. 
+There is also the option for the player to select their own spot to teleport to within a certain range that the game allows. Which follows a similar function to set spot teleportation except that the player gets to choose where in the environment that the spot lands on – if they can see the ground, anyway. 
+Teleportation systems are usually used in vr games to limit the user’s chances of getting motion sickness. 
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+## How would a joystick movement system work? 
+Joystick movement in a VR game works the same way as it does in any non-VR game, where the joystick controls the movement of the player based off a point of vision. Though in some VR games, that direction can be switched between the head or the controller that the joystick is attached to. 
 
-::::::::::::::::::::::::::::::::::::: objectives
+## How would scale based navigation (actually walking in your physical space) work? 
+To a certain extent, any game that has the ability for six degrees of freedom (up and down, left and right, back and forth, yaw, pitch, and roll) will allow for movement within the space for the player to use. This is because the movement is based off the position of the headset that the player is using, not their actual body. 
+However, an environment can be intentionally built to reflect the ability of the player’s movement in the real world and can make for a more immersive experience as a result of this. 
+There is also the option of using motion-based tracking. Through either the use of full-body tracking using sensors or other additional equipment like walking motion controllers. Though these options can be pricy and may require additional equipment and setup just to use. 
+This method of navigation within VR games can provide a more immersive experience, as the player is actually able to naturally navigate the space they’re in. 
 
-- Explain what options users have to navigate in a VR environment.
-- Demonstrate how to implement a basic teleportation system.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
+# Resources:
+https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2021.730792/full
+https://recroom.zendesk.com/hc/en-us/articles/4533103771927-VR-Movement-Options
+https://xpertvr.ca/the-different-kinds-of-locomotion-in-vr/ 
